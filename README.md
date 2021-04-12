@@ -1,0 +1,2 @@
+# RabbitMq_SpringBoot_Practice
+SpringBoot整合RabbitMq练习
